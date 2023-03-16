@@ -4,3 +4,4 @@ vmess://eyJhZGQiOiIxMDQuMjUxLjEyMy4xMDYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vmess://eyJhZGQiOiIxMDQuMTcuMTQuNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVzLXYuc3NobWF4Lnh5eiIsImlkIjoiMmFlOTkyNTEtYjA3ZC00MWYzLTljY2YtNGMxZWMwN2Y4NjExIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoidC5tZS9NYWhhbkZpeCAtSGFtcmFoYXZhbCtJcmFuY2VsbCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ1cy12LnNzaG1heC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://eb637ec8-7da9-4d9f-8f94-9a4eb1687b67@104.17.14.48:443?path=%2Fvless&security=tls&encryption=none&host=us-v.sshmax.xyz&type=ws&sni=us-v.sshmax.xyz#t.me%2FMahanFix+-Hamrahaval
 vless://eb637ec8-7da9-4d9f-8f94-9a4eb1687b67@104.17.14.48:443?path=%2Fvless&security=tls&encryption=none&host=us-v.sshmax.xyz&type=ws&sni=us-v.sshmax.xyz#t.me%2FMahanFix+
+trojan://telegram-id-directvpn@34.255.205.202:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40mahanfix
